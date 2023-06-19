@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -20,6 +20,7 @@
             <a href="navegacion.html" class="nav_link"> NAVEGA POR EL MENÚ</a>
             <a href="tienda.html" class="nav_link">LOCALIZA NUESTRAS TIENDAS</a>
             <a href="oferta.html" class="nav_link">OFERTAS</a>
+            <a href="historia.html" class="nav_link">MI HISTORIA</a>
         </nav>
     </header>
     <!--Imagen de fondo y contenido..-->
